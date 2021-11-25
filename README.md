@@ -4,3 +4,5 @@ This repository mainly includes papers which the author have read. And there are
 ## RL
 ### Policy_Based
 1. [The theory of Policy Gradient Computation](https://www.yuque.com/u2274123/qhp36o/opcd8d)
+2. [Policy Gradient Algorithms](https://www.yuque.com/u2274123/qhp36o/zrkuew)
+3. [DQN and its Extensions](https://www.yuque.com/u2274123/qhp36o/gker2c)
