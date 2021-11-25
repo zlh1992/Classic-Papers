@@ -1,5 +1,5 @@
 # Paper_Reading
-The repository mainly include papers which the author have read. 
+The repository mainly includes papers which the author have read. And there are also some basic theory of different braches of AI which will help you get a better understanding for papers. In the following, the basic theories can be divided into Reinforcement Learning, Natural Lanuage Processing, and Recommendation System.
 
 ## RL
 ### Policy_Based
